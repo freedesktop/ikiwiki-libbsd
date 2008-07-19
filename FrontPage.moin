@@ -1,0 +1,36 @@
+##master-page:FrontPage
+#format wiki
+#language en
+#pragma section-numbers off
+= libbsd =
+
+This library provides useful functions commonly found on BSD systems,
+and lacking on others like GNU systems, thus making it easier to port
+projects with strong BSD origins, without needing to embed the same
+code over and over again on each project.
+
+== License ==
+
+The licenses for the code contained in libbsd are quite permissive to
+make it easier for other projects to use it. Most of the licenses are
+either new BSD or MIT style, check the source code for the actual
+license details.
+
+== Download ==
+
+Latest [[http://libbsd.freedesktop.org/releases/|released tarballs]].
+
+The code under development can be cloned from git:
+
+{{{
+git clone git://anongit.freedesktop.org/git/libbsd
+}}}
+
+And browsed using [[http://cgit.freedesktop.org/libbsd/|cgit]] or
+[[http://gitweb.freedesktop.org/?p=libbsd.git;a=summary|gitweb]].
+
+== Contact ==
+
+[[http://lists.freedesktop.org/mailman/listinfo/libbsd|Mailing list]].
+
+[[http://bugs.freedesktop.org|Bugzilla]].
