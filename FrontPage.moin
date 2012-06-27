@@ -43,6 +43,8 @@ And browsed using [[http://cgit.freedesktop.org/libbsd/|cgit]] or
  * [[https://admin.fedoraproject.org/pkgdb/acls/name/libbsd|Fedora]]
  * [[http://packages.gentoo.org/package/dev-libs/libbsd|Gentoo]]
  * [[https://build.opensuse.org/package/show?package=libbsd&project=devel%3Alibraries%3Ac_c%2B%2B|openSUSE]]
+ * [[https://dev.openwrt.org/browser/trunk/package/libbsd|OpenWrt]]
+ * [[http://slackbuilds.org/cgit/slackbuilds/tree/libraries/libbsd|Slackware]]
  * [[http://www.sourcemage.org/projects/grimoire/repository/revisions/master/show/libs/libbsd|Source Mage]]
  * [[http://packages.ubuntu.com/source/libbsd|Ubuntu]]
  * [[https://svn.uhulinux.hu/packages/dev/libbsd/|UHU Linux]]
