@@ -21,6 +21,8 @@ source code for the actual license details.
 
 Latest [[http://libbsd.freedesktop.org/releases/|released tarballs]].
 
+== Development ==
+
 The code under development can be cloned from git:
 
 {{{
@@ -29,6 +31,8 @@ git clone git://anongit.freedesktop.org/git/libbsd
 
 And browsed using [[http://cgit.freedesktop.org/libbsd/|cgit]] or
 [[http://gitweb.freedesktop.org/?p=libbsd.git;a=summary|gitweb]].
+
+[[http://upstream-tracker.org/versions/libbsd.html|API changes and compatibility analysis]].
 
 == Contact ==
 
