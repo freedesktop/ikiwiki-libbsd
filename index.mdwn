@@ -1,5 +1,3 @@
-
-
 # libbsd
 
 This library provides useful functions commonly found on BSD systems, and lacking on others like GNU systems, thus making it easier to port projects with strong BSD origins, without needing to embed the same code over and over again on each project. 
@@ -19,10 +17,8 @@ Latest [[released tarballs|http://libbsd.freedesktop.org/releases/]].
 
 The code under development can be cloned from git: 
 
+    git clone git://anongit.freedesktop.org/git/libbsd
 
-[[!format txt """
-git clone git://anongit.freedesktop.org/git/libbsd
-"""]]
 And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]] or [[gitweb|http://gitweb.freedesktop.org/?p=libbsd.git;a=summary]]. 
 
 [[API changes and compatibility analysis|http://upstream-tracker.org/versions/libbsd.html]]. 
