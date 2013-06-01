@@ -34,6 +34,7 @@ And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]] or [[gitweb|http:
 ## Downstreams
 
 * [[ArchLinux|http://aur.archlinux.org/packages.php?ID=26667]] 
+* [[Alpine Linux|http://git.alpinelinux.org/cgit/aports/tree/main/libbsd]]
 * [[Debian|http://packages.debian.org/source/libbsd]] 
 * [[Fedora|https://admin.fedoraproject.org/pkgdb/acls/name/libbsd]] 
 * [[Gentoo|http://packages.gentoo.org/package/dev-libs/libbsd]] 
