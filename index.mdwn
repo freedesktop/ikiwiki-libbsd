@@ -33,7 +33,7 @@ And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]] or [[gitweb|http:
 
 ## Downstreams
 
-* [[ArchLinux|http://aur.archlinux.org/packages.php?ID=26667]] 
+* [[ArchLinux|https://www.archlinux.org/packages/extra/x86_64/libbsd/]]
 * [[Alpine Linux|http://git.alpinelinux.org/cgit/aports/tree/main/libbsd]]
 * [[Debian|http://packages.debian.org/source/libbsd]] 
 * [[Fedora|https://admin.fedoraproject.org/pkgdb/acls/name/libbsd]] 
