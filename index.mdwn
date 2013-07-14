@@ -1,46 +1,48 @@
 # libbsd
 
-This library provides useful functions commonly found on BSD systems, and lacking on others like GNU systems, thus making it easier to port projects with strong BSD origins, without needing to embed the same code over and over again on each project. 
-
+This library provides useful functions commonly found on BSD systems, and
+lacking on others like GNU systems, thus making it easier to port projects
+with strong BSD origins, without needing to embed the same code over and
+over again on each project.
 
 ## License
 
-The licenses for the code contained in libbsd are quite permissive to make it easier for other projects to use it. Most of the licenses are either [[New BSD|http://en.wikipedia.org/wiki/BSD_licenses]] or [[MIT style|http://en.wikipedia.org/wiki/Mit_license]], check the source code for the actual license details. 
-
+The licenses for the code contained in libbsd are quite permissive to make
+it easier for other projects to use it. Most of the licenses are either
+[[New BSD|http://en.wikipedia.org/wiki/BSD_licenses]] or
+[[MIT style|http://en.wikipedia.org/wiki/Mit_license]], check the source
+code for the actual license details.
 
 ## Download
 
-Latest [[released tarballs|http://libbsd.freedesktop.org/releases/]]. 
-
+Latest [[released tarballs|http://libbsd.freedesktop.org/releases/]].
 
 ## Development
 
-The code under development can be cloned from git: 
+The code under development can be cloned from git:
 
     git clone git://anongit.freedesktop.org/git/libbsd
 
 And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 
-[[API changes and compatibility analysis|http://upstream-tracker.org/versions/libbsd.html]]. 
-
+[[API changes and compatibility analysis|http://upstream-tracker.org/versions/libbsd.html]].
 
 ## Contact
 
-[[Mailing list|http://lists.freedesktop.org/mailman/listinfo/libbsd]]. 
+[[Mailing list|http://lists.freedesktop.org/mailman/listinfo/libbsd]].
 
-[[Bugzilla|https://bugs.freedesktop.org/buglist.cgi?query_format=specific&bug_status=__open__&product=libbsd]]. 
-
+[[Bugzilla|https://bugs.freedesktop.org/buglist.cgi?query_format=specific&bug_status=__open__&product=libbsd]].
 
 ## Downstreams
 
 * [[ArchLinux|https://www.archlinux.org/packages/extra/x86_64/libbsd/]]
 * [[Alpine Linux|http://git.alpinelinux.org/cgit/aports/tree/main/libbsd]]
-* [[Debian|http://packages.debian.org/source/libbsd]] 
-* [[Fedora|https://admin.fedoraproject.org/pkgdb/acls/name/libbsd]] 
-* [[Gentoo|http://packages.gentoo.org/package/dev-libs/libbsd]] 
-* [[openSUSE|https://build.opensuse.org/package/show?package=libbsd&project=devel%3Alibraries%3Ac_c%2B%2B]] 
-* [[OpenWrt|https://dev.openwrt.org/browser/trunk/package/libs/libbsd]] 
-* [[Slackware|http://slackbuilds.org/cgit/slackbuilds/tree/libraries/libbsd]] 
-* [[Source Mage|http://www.sourcemage.org/projects/grimoire/repository/revisions/master/show/libs/libbsd]] 
-* [[Ubuntu|http://packages.ubuntu.com/source/libbsd]] 
-* [[UHU Linux|https://svn.uhulinux.hu/packages/dev/libbsd/]] 
+* [[Debian|http://packages.debian.org/source/libbsd]]
+* [[Fedora|https://admin.fedoraproject.org/pkgdb/acls/name/libbsd]]
+* [[Gentoo|http://packages.gentoo.org/package/dev-libs/libbsd]]
+* [[openSUSE|https://build.opensuse.org/package/show?package=libbsd&project=devel%3Alibraries%3Ac_c%2B%2B]]
+* [[OpenWrt|https://dev.openwrt.org/browser/trunk/package/libs/libbsd]]
+* [[Slackware|http://slackbuilds.org/cgit/slackbuilds/tree/libraries/libbsd]]
+* [[Source Mage|http://www.sourcemage.org/projects/grimoire/repository/revisions/master/show/libs/libbsd]]
+* [[Ubuntu|http://packages.ubuntu.com/source/libbsd]]
+* [[UHU Linux|https://svn.uhulinux.hu/packages/dev/libbsd/]]
