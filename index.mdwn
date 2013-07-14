@@ -19,7 +19,7 @@ The code under development can be cloned from git:
 
     git clone git://anongit.freedesktop.org/git/libbsd
 
-And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]] or [[gitweb|http://gitweb.freedesktop.org/?p=libbsd.git;a=summary]]. 
+And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 
 [[API changes and compatibility analysis|http://upstream-tracker.org/versions/libbsd.html]]. 
 
