@@ -37,9 +37,12 @@ And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 
 * [[ArchLinux|https://www.archlinux.org/packages/extra/x86_64/libbsd/]]
 * [[Alpine Linux|http://git.alpinelinux.org/cgit/aports/tree/main/libbsd]]
+* [[Buildroot|http://git.buildroot.net/buildroot/tree/package/libbsd]]
 * [[Debian|http://packages.debian.org/source/libbsd]]
 * [[Fedora|https://admin.fedoraproject.org/pkgdb/acls/name/libbsd]]
 * [[Gentoo|http://packages.gentoo.org/package/dev-libs/libbsd]]
+* [[Mageia|http://svnweb.mageia.org/packages/cauldron/libbsd/current/SPECS/libbsd.spec?view=markup]]
+* [[OpenEmbedded|http://cgit.openembedded.org/openembedded-core/tree/meta/recipes-support/libbsd]]
 * [[openSUSE|https://build.opensuse.org/package/show?package=libbsd&project=devel%3Alibraries%3Ac_c%2B%2B]]
 * [[OpenWrt|https://dev.openwrt.org/browser/trunk/package/libs/libbsd]]
 * [[Slackware|http://slackbuilds.org/cgit/slackbuilds/tree/libraries/libbsd]]
