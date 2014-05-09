@@ -41,6 +41,7 @@ And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 * [[Debian|http://packages.debian.org/source/libbsd]]
 * [[Fedora|https://admin.fedoraproject.org/pkgdb/acls/name/libbsd]]
 * [[Gentoo|http://packages.gentoo.org/package/dev-libs/libbsd]]
+* [[GoboLinux|http://svn.gobolinux.org/recipes/revisions/LibBSD/]]
 * [[Mageia|http://svnweb.mageia.org/packages/cauldron/libbsd/current/SPECS/libbsd.spec?view=markup]]
 * [[OpenEmbedded|http://cgit.openembedded.org/openembedded-core/tree/meta/recipes-support/libbsd]]
 * [[openmamba|http://www.openmamba.org/distribution/distromatic.html?tag=devel&pkg=libbsd.source]]
