@@ -39,7 +39,7 @@ And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 * [[Alpine Linux|http://git.alpinelinux.org/cgit/aports/tree/main/libbsd]]
 * [[Buildroot|http://git.buildroot.net/buildroot/tree/package/libbsd]]
 * [[Debian|http://packages.debian.org/source/libbsd]]
-* [[Fedora|https://admin.fedoraproject.org/pkgdb/acls/name/libbsd]]
+* [[Fedora|https://admin.fedoraproject.org/pkgdb/package/libbsd/]]
 * [[Gentoo|http://packages.gentoo.org/package/dev-libs/libbsd]]
 * [[GoboLinux|http://svn.gobolinux.org/recipes/revisions/LibBSD/]]
 * [[Mageia|http://svnweb.mageia.org/packages/cauldron/libbsd/current/SPECS/libbsd.spec?view=markup]]
