@@ -9,8 +9,9 @@ over again on each project.
 
 The licenses for the code contained in libbsd are quite permissive to make
 it easier for other projects to use it. Most of the licenses are either
-[[New BSD|http://en.wikipedia.org/wiki/BSD_licenses]] or
-[[MIT style|http://en.wikipedia.org/wiki/Mit_license]], check the source
+[[New BSD|http://en.wikipedia.org/wiki/BSD_licenses]],
+[[MIT style|http://en.wikipedia.org/wiki/Mit_license]] or
+[[ISC|https://en.wikipedia.org/wiki/ISC_License]], check the source
 code for the actual license details.
 
 ## Download
