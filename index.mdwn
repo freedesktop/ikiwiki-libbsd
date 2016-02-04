@@ -53,4 +53,5 @@ And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 * [[Source Mage|http://www.sourcemage.org/projects/grimoire/repository/revisions/master/show/libs/libbsd]]
 * [[Ubuntu|http://packages.ubuntu.com/source/libbsd]]
 * [[UHU Linux|https://svn.uhulinux.hu/packages/dev/libbsd/]]
+* [[NaCL webports|https://chromium.googlesource.com/webports/+/master/ports/libbsd/]]
 * [[Yocto Project|https://git.yoctoproject.org/cgit/cgit.cgi/poky/tree/meta/recipes-support/libbsd]]
