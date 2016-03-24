@@ -16,7 +16,7 @@ code for the actual license details.
 
 ## Download
 
-Latest [[released tarballs|http://libbsd.freedesktop.org/releases/]].
+Latest [[released tarballs|https://libbsd.freedesktop.org/releases/]].
 
 ## Development
 
