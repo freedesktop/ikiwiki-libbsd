@@ -50,6 +50,7 @@ And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 * [[openmamba|http://www.openmamba.org/distribution/distromatic.html?tag=devel&pkg=libbsd.source]]
 * [[openSUSE|https://build.opensuse.org/package/show?package=libbsd&project=devel%3Alibraries%3Ac_c%2B%2B]]
 * [[OpenWrt|https://dev.openwrt.org/browser/trunk/package/libs/libbsd]]
+* [[PLD Linux|https://git.pld-linux.org/?p=packages/libbsd.git]]
 * [[Slackware|http://slackbuilds.org/cgit/slackbuilds/tree/libraries/libbsd]]
 * [[Source Mage|http://www.sourcemage.org/projects/grimoire/repository/revisions/master/show/libs/libbsd]]
 * [[Ubuntu|http://packages.ubuntu.com/source/libbsd]]
