@@ -26,8 +26,6 @@ The code under development can be cloned from git:
 
 And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 
-[[API changes and compatibility analysis|http://upstream-tracker.org/versions/libbsd.html]].
-
 ## Contact
 
 [[Mailing list|http://lists.freedesktop.org/mailman/listinfo/libbsd]].
