@@ -39,6 +39,7 @@ And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 * [[Alpine Linux|http://git.alpinelinux.org/cgit/aports/tree/main/libbsd]]
 * [[ArchLinux|https://www.archlinux.org/packages/extra/x86_64/libbsd/]]
 * [[Buildroot|http://git.buildroot.net/buildroot/tree/package/libbsd]]
+* [[Cygwin Ports|https://github.com/cygwinports-extras/libbsd]]
 * [[Debian|http://packages.debian.org/source/libbsd]]
 * [[Exherbo|http://git.exherbo.org/summer/packages/dev-libs/libbsd/]]
 * [[Fedora|https://admin.fedoraproject.org/pkgdb/package/libbsd/]]
