@@ -44,7 +44,7 @@ And browsed using [[cgit|http://cgit.freedesktop.org/libbsd/]].
 * [[Gentoo|http://packages.gentoo.org/package/dev-libs/libbsd]]
 * [[GoboLinux|https://github.com/gobolinux/Recipes/tree/master/revisions/LibBSD]]
 * [[Mageia|http://svnweb.mageia.org/packages/cauldron/libbsd/current/SPECS/libbsd.spec?view=markup]]
-* [[Nutyx|https://github.com/NuTyX/current/tree/master/cli/libbsd]]
+* [[Nutyx|https://github.com/NuTyX/core/tree/master/cli/libbsd]]
 * [[OpenEmbedded|http://cgit.openembedded.org/openembedded-core/tree/meta/recipes-support/libbsd]]
 * [[openmamba|http://www.openmamba.org/distribution/distromatic.html?tag=devel&pkg=libbsd.source]]
 * [[openSUSE|https://build.opensuse.org/package/show?package=libbsd&project=devel%3Alibraries%3Ac_c%2B%2B]]
