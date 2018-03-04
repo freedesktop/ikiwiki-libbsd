@@ -60,3 +60,4 @@ And browsed using [[cgit|https://cgit.freedesktop.org/libbsd/]].
 ## Ports
 
 * [[Mac OS X|https://github.com/JackieXie168/libbsd]]
+* [[Solaris|https://github.com/jrmarino/libbsd4sol]]
