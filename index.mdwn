@@ -34,6 +34,8 @@ And browsed using [cgit](https://cgit.freedesktop.org/libbsd/).
 
 ## Downstreams
 
+[![Packaging status](https://repology.org/badge/vertical-allrepos/libbsd.svg)](https://repology.org/metapackage/libbsd)
+
 * [Alpine Linux](https://git.alpinelinux.org/cgit/aports/tree/main/libbsd)
 * [Alt Linux](http://www.sisyphus.ru/en/srpm/Sisyphus/libbsd)
 * [AOSC (Anthon Open Source Community)](https://packages.aosc.io/packages/libbsd)
