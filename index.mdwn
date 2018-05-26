@@ -9,14 +9,14 @@ over again on each project.
 
 The licenses for the code contained in libbsd are quite permissive to make
 it easier for other projects to use it. Most of the licenses are either
-[[New BSD|https://en.wikipedia.org/wiki/BSD_licenses]],
-[[MIT style|https://en.wikipedia.org/wiki/Mit_license]] or
-[[ISC|https://en.wikipedia.org/wiki/ISC_License]], check the source
+[New BSD](https://en.wikipedia.org/wiki/BSD_licenses),
+[MIT style](https://en.wikipedia.org/wiki/Mit_license) or
+[ISC](https://en.wikipedia.org/wiki/ISC_License), check the source
 code for the actual license details.
 
 ## Download
 
-Latest [[released tarballs|https://libbsd.freedesktop.org/releases/]].
+Latest [released tarballs](https://libbsd.freedesktop.org/releases/).
 
 ## Development
 
@@ -24,46 +24,46 @@ The code under development can be cloned from git:
 
     git clone https://anongit.freedesktop.org/git/libbsd.git
 
-And browsed using [[cgit|https://cgit.freedesktop.org/libbsd/]].
+And browsed using [cgit](https://cgit.freedesktop.org/libbsd/).
 
 ## Contact
 
-[[Mailing list|https://lists.freedesktop.org/mailman/listinfo/libbsd]].
+[Mailing list](https://lists.freedesktop.org/mailman/listinfo/libbsd).
 
-[[Bugzilla|https://bugs.freedesktop.org/buglist.cgi?query_format=specific&bug_status=__open__&product=libbsd]].
+[Bugzilla](https://bugs.freedesktop.org/buglist.cgi?query_format=specific&bug_status=__closed__&product=libbsd).
 
 ## Downstreams
 
-* [[Alpine Linux|https://git.alpinelinux.org/cgit/aports/tree/main/libbsd]]
-* [[Alt Linux|http://www.sisyphus.ru/en/srpm/Sisyphus/libbsd]]
-* [[AOSC (Anthon Open Source Community)|https://packages.aosc.io/packages/libbsd]]
-* [[ArchLinux|https://www.archlinux.org/packages/extra/x86_64/libbsd/]]
-* [[Buildroot|https://git.buildroot.net/buildroot/tree/package/libbsd]]
-* [[CRUX Linux|https://crux.nu/ports/crux-3.3/contrib/libbsd/]]
-* [[Cygwin Ports|https://github.com/cygwinports-extras/libbsd]]
-* [[Debian|https://packages.debian.org/source/libbsd]]
-* [[Exherbo|https://git.exherbo.org/summer/packages/dev-libs/libbsd/]]
-* [[Fedora|https://src.fedoraproject.org/rpms/libbsd]]
-* [[Gentoo|https://packages.gentoo.org/package/dev-libs/libbsd]]
-* [[GoboLinux|https://github.com/gobolinux/Recipes/tree/master/revisions/LibBSD]]
-* [[LinuxBrew|https://github.com/Linuxbrew/homebrew-core/blob/master/Formula/libbsd.rb]]
-* [[KaOSx|https://github.com/KaOSx/main/blob/master/libbsd/]]
-* [[Mageia|http://svnweb.mageia.org/packages/cauldron/libbsd/current/SPECS/libbsd.spec?view=markup]]
-* [[Nutyx|https://github.com/NuTyX/core/tree/master/cli/libbsd]]
-* [[OpenEmbedded|http://cgit.openembedded.org/openembedded-core/tree/meta/recipes-support/libbsd]]
-* [[openmamba|https://www.openmamba.org/distribution/distromatic.html?tag=devel&pkg=libbsd.source]]
-* [[openSUSE|https://build.opensuse.org/package/show/devel:libraries:c_c++/libbsd]]
-* [[OpenWrt|https://dev.openwrt.org/browser/trunk/package/libs/libbsd]]
-* [[PLD Linux|https://git.pld-linux.org/?p=packages/libbsd.git]]
-* [[Slackware|https://git.slackbuilds.org/slackbuilds/tree/libraries/libbsd]]
-* [[SliTaz|http://hg.slitaz.org/wok/file/tip/libbsd/receipt]]
-* [[Source Mage|http://scmweb.sourcemage.org/?p=smgl/grimoire.git;a=tree;f=libs/libbsd]]
-* [[Ubuntu|https://packages.ubuntu.com/source/libbsd]]
-* [[UHU Linux|https://svn.uhulinux.hu/packages/dev/libbsd/]]
-* [[NaCL webports|https://chromium.googlesource.com/webports/+/master/ports/libbsd/]]
-* [[Yocto Project|https://git.yoctoproject.org/cgit/cgit.cgi/poky/tree/meta/recipes-support/libbsd]]
+* [Alpine Linux](https://git.alpinelinux.org/cgit/aports/tree/main/libbsd)
+* [Alt Linux](http://www.sisyphus.ru/en/srpm/Sisyphus/libbsd)
+* [AOSC (Anthon Open Source Community)](https://packages.aosc.io/packages/libbsd)
+* [ArchLinux](https://www.archlinux.org/packages/extra/x86_64/libbsd/)
+* [Buildroot](https://git.buildroot.net/buildroot/tree/package/libbsd)
+* [CRUX Linux](https://crux.nu/ports/crux-3.3/contrib/libbsd/)
+* [Cygwin Ports](https://github.com/cygwinports-extras/libbsd)
+* [Debian](https://packages.debian.org/source/libbsd)
+* [Exherbo](https://git.exherbo.org/summer/packages/dev-libs/libbsd/)
+* [Fedora](https://src.fedoraproject.org/rpms/libbsd)
+* [Gentoo](https://packages.gentoo.org/package/dev-libs/libbsd)
+* [GoboLinux](https://github.com/gobolinux/Recipes/tree/master/revisions/LibBSD)
+* [LinuxBrew](https://github.com/Linuxbrew/homebrew-core/blob/master/Formula/libbsd.rb)
+* [KaOSx](https://github.com/KaOSx/main/blob/master/libbsd/)
+* [Mageia](http://svnweb.mageia.org/packages/cauldron/libbsd/current/SPECS/libbsd.spec?view=markup)
+* [Nutyx](https://github.com/NuTyX/core/tree/master/cli/libbsd)
+* [OpenEmbedded](http://cgit.openembedded.org/openembedded-core/tree/meta/recipes-support/libbsd)
+* [openmamba](https://www.openmamba.org/distribution/distromatic.html?tag=devel&pkg=libbsd.source)
+* [openSUSE](https://build.opensuse.org/package/show/devel:libraries:c_c++/libbsd)
+* [OpenWrt](https://dev.openwrt.org/browser/trunk/package/libs/libbsd)
+* [PLD Linux](https://git.pld-linux.org/?p=packages/libbsd.git)
+* [Slackware](https://git.slackbuilds.org/slackbuilds/tree/libraries/libbsd)
+* [SliTaz](http://hg.slitaz.org/wok/file/tip/libbsd/receipt)
+* [Source Mage](http://scmweb.sourcemage.org/?p=smgl/grimoire.git;a=tree;f=libs/libbsd)
+* [Ubuntu](https://packages.ubuntu.com/source/libbsd)
+* [UHU Linux](https://svn.uhulinux.hu/packages/dev/libbsd/)
+* [NaCL webports](https://chromium.googlesource.com/webports/+/master/ports/libbsd/)
+* [Yocto Project](https://git.yoctoproject.org/cgit/cgit.cgi/poky/tree/meta/recipes-support/libbsd)
 
 ## Ports
 
-* [[Mac OS X|https://github.com/JackieXie168/libbsd]]
-* [[Solaris|https://github.com/jrmarino/libbsd4sol]]
+* [Mac OS X](https://github.com/JackieXie168/libbsd)
+* [Solaris](https://github.com/jrmarino/libbsd4sol)
