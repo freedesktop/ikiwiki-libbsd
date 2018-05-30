@@ -28,18 +28,18 @@ The code under development can be cloned from git:
 
     git clone https://anongit.freedesktop.org/git/libbsd.git
 
-And browsed using [cgit](https://cgit.freedesktop.org/libbsd/).
+And browsed in [gitlab](https://gitlab.freedesktop.org/libbsd/libbsd) or
+using [cgit](https://cgit.freedesktop.org/libbsd/).
 
 ## Contact
 
 [Mailing list](https://lists.freedesktop.org/mailman/listinfo/libbsd).
 
-The project is being switched to the FreeDesktop.Org GitLab instance, and
-Bugzilla has now been disabled, we'll be using the GitLab issues once the
-migration has finished. Until then, please feel free to send your reports
-to the mailing list.
-
-Historic bugs can be accessed from
+The project has been switched to the
+[FreeDesktop.Org GitLab](https://gitlab.freedesktop.org/) instance, and
+filing new bugs in Bugzilla has been disabled. We are using the GitLab
+[issues](https://gitlab.freedesktop.org/libbsd/libbsd/issues) now. Historic
+bugs can be accessed from
 [Bugzilla](https://bugs.freedesktop.org/buglist.cgi?query_format=specific&bug_status=__closed__&product=libbsd).
 
 ## Downstreams
