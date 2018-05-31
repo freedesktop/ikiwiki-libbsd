@@ -42,6 +42,26 @@ filing new bugs in Bugzilla has been disabled. We are using the GitLab
 bugs can be accessed from
 [Bugzilla](https://bugs.freedesktop.org/buglist.cgi?query_format=specific&bug_status=__closed__&product=libbsd).
 
+### Security issues
+
+In case of a security issue that needs to be reported privately, please
+send encrypted mail to [Guillem Jover](https://www.hadrons.org/~guillem/),
+the current maintainer.
+
+## Contributing
+
+Changes can be sent either as patches to the mailing list, or as
+[merge requests](https://gitlab.freedesktop.org/libbsd/libbsd/merge_requests).
+
+New interfaces can be added, depending on their portability, and on their
+presence on at least one of the BSDs. The preferred form is by importing the
+best implementation from one of those BSDs. Alternatively an implementation
+from scratch might be required. In that case the preferred coding style is
+[KNF](https://www.freebsd.org/cgi/man.cgi?query=style&sektion=9) and a
+[BSD-3-clause](https://spdx.org/licenses/BSD-3-Clause.html) license, but
+a more permissive license is also welcome. Any new function must also come
+with a man page. Ideally new interfaces should get new unit tests.
+
 ## Downstreams
 
 [![Packaging status](https://repology.org/badge/vertical-allrepos/libbsd.svg)](https://repology.org/metapackage/libbsd)
@@ -60,7 +80,7 @@ bugs can be accessed from
 * [NaCL webports](https://chromium.googlesource.com/webports/+/master/ports/libbsd/)
 * [Yocto Project](https://git.yoctoproject.org/cgit/cgit.cgi/poky/tree/meta/recipes-support/libbsd)
 
-## Ports
+### Ports
 
 * [Mac OS X](https://github.com/JackieXie168/libbsd)
 * [Solaris](https://github.com/jrmarino/libbsd4sol)
