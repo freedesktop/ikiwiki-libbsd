@@ -32,8 +32,10 @@ The code under development can be cloned from git:
 
     git clone https://anongit.freedesktop.org/git/libbsd.git
 
-And browsed in [gitlab](https://gitlab.freedesktop.org/libbsd/libbsd) or
-using [cgit](https://cgit.freedesktop.org/libbsd/).
+And browsed in either:
+
+* [gitlab](https://gitlab.freedesktop.org/libbsd/libbsd), or
+* [cgit](https://cgit.freedesktop.org/libbsd/).
 
 [![CI Status](https://gitlab.freedesktop.org/libbsd/libbsd/badges/master/pipeline.svg)](https://gitlab.freedesktop.org/libbsd/libbsd/commits/master)
 [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/7836.svg)](https://scan.coverity.com/projects/guillemj-libbsd")
