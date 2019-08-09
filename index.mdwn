@@ -16,7 +16,7 @@ it easier for other projects to use it. Most of the licenses are either
 [BSD-3-clause](https://spdx.org/licenses/BSD-3-Clause.html), and
 [BSD-4-clause](https://spdx.org/licenses/BSD-3-Clause.html) (but only
 for few of the man pages, and this is considered a bug). Please check
-the the COPYING file and the source code for the actual license details.
+the COPYING file and the source code for the actual license details.
 
 ## Download
 
